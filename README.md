@@ -1,2 +1,1 @@
-# plr
-Project Language Randomizer
+#Project Language Randomizer
